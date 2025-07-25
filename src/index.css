@@ -1,0 +1,18 @@
+/* Global Button Styling */
+button {
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: darkorange;
+}
+
+button:active {
+  background-color: orangered;
+}
